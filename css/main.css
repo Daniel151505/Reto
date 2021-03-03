@@ -29,3 +29,20 @@ body{
     margin-bottom: 2rem;
 }
 
+/* Top Navbar */
+.pl {
+    padding-left: 3rem;
+}
+
+.top-navbar {
+    position: relative;
+    background-color: skyblue;
+    color: white;
+}
+
+.navbar-content-top{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
