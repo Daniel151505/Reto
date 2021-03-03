@@ -59,3 +59,14 @@ body{
     align-items: center;
 }
 
+/* Content */
+
+.color {
+    color: white;
+}
+
+.center {
+    text-align: center;
+}
+
+
